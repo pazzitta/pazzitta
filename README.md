@@ -1,7 +1,5 @@
 ### <h1>Hola 👋, Soy Paz Zitta</hi>
-#### Desarrolladora Web Full Stack
-<a href="https://ibb.co/ySymcfq"><img src="https://i.ibb.co/q5sL3yp/Background-linkedin.jpg" alt="Background-linkedin" border="0"></a>
-<!-- ![Desarrolladora Web Full Stack](https://ibb.co/ySymcfq) -->
+![Background](https://user-images.githubusercontent.com/90649025/172462084-7c7016e5-2abd-4dfc-993d-a3a79b8c092d.jpg)
 
 Desarrolladora Web Full Stack con formación y experiencia en diseño gráfico y comunicación audiovisual. 
 Soy supercuriosa y me estimula muchísimo idear y crear “cosas”, por eso siempre elegí profesiones que me permitieran crear y estar en constante movimiento y aprendizaje. 
